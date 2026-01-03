@@ -1,12 +1,12 @@
 
 import React, { useState, useEffect } from 'react';
 import Navbar from "./components/navbar";
-import Hero from './components/Hero';
-import ServiceCard from './components/ServiceCard';
-import SingleServices from './components/SingleServices';
-import WhyUs from './components/WhyUs';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
+import Hero from './components/hero';
+import ServiceCard from './components/servicecard';
+import SingleServices from './components/singleservices';
+import WhyUs from './components/whyus';
+import Contact from './components/contact';
+import Footer from './components/footer';
 import { PACKAGES } from './constants';
 
 const App: React.FC = () => {
