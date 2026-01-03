@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect } from 'react';
-import Navbar from './components/Navbar';
+import Navbar from "./components/navbar";
 import Hero from './components/Hero';
 import ServiceCard from './components/ServiceCard';
 import SingleServices from './components/SingleServices';
